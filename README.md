@@ -15,4 +15,4 @@ Retrieve light magnitude
 
 # mqtt-relay-pump
 
-publish state to mini water pump
+publish state to control mini water pump
